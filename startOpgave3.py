@@ -50,7 +50,7 @@ def getSequentie (bestandsnaam):
 # >>> EcoRII knipt niet
 
 
-sequentie = getSequentie("startOpgave2.txt")
+sequentie = getSequentie("startOpgave3.txt")
 
 print ("De sequentie waar de enzymen in kunnen knippen")
 print ("-"*80)
